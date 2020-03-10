@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChuckNorrisApi</string>
+    <string name="single_joke">Single Joke</string>
+    <string name="character_joke">Character Joke</string>
+    <string name="endless_jokes">Endless Jokes</string>
+    <string name="give_me_your_first_name">Give me your first name</string>
+    <string name="give_me_your_last_name">Give me your last name</string>
+    <string name="submit">Submit</string>
+</resources>
